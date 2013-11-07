@@ -36,4 +36,8 @@ mongoimport -h localhsot:[PORT] -d meteor-c cameras --file camera.json
 
 You are up and running!
 
+Continuous Integration support
+
+https://www.codeship.io/projects/e1c518b0-29e0-0131-6afa-52b5a6f38a79/status
+
 
